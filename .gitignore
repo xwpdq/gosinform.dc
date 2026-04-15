@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
 .venv/
+.idea
 interfaces/frontend/node_modules/
 interfaces/frontend/dist/
